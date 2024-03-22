@@ -1,0 +1,9 @@
+transformers==4.38.2
+datasets=2.18.0
+torch==2.2.1
+evaluate==0.4.1
+jiwer==3.0.3
+wandb==0.16.4
+python-3.8.10
+
+
