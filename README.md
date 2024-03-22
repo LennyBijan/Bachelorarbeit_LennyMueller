@@ -2,6 +2,6 @@ Dieses Github Repo dient der Dokumentation der entwickelten und verwendeten Pyth
 
 Pipeline/... enthält alle Skripte die zur Erstellung eines Datensatzes bis hin zum Training des Datensatzes benötigt wurden
 
-BA_Datensatz_V2/... enthält den gesamten entwickelten Datensatz inkl. des geschrieben Datensatzladeskripts 
+BA_Datensatz_V2/... enthält den entwickelten Datensatz bzw. das geschrieben Datensatzladeskripts sowie die Metadatendateien 
 
 WandbSweep/... enthält die modifizierte Trainingspipeline mit Integration des "Sweeps" von WandB zur Hyperparameteroptimierung
